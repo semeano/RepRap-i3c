@@ -11,4 +11,6 @@ You could use an i3 box frame version but isn't that good looking. Plus, wood is
 
 ### Requirements
 You'll need [SketchUp](http://www.sketchup.com/).
-There are no CAD files. Feel free to fork and create them :)
+
+### CAD
+There are no CAD files. But feel free to do a pull request with them :)
